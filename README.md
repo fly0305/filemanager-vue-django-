@@ -1,4 +1,4 @@
-# FileManager by <a href="https://github.com/talented">Talented</a>
+# FileManager by <a href="https://github.com/talented">Asher</a>
 
 <div align="center">
   <a href="https://github.com/igeligel/personal-site/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-1da1f2.svg?style=flat" alt="badge License" /></a>
@@ -27,7 +27,7 @@ See [requirements.txt](https://github.com/talented/filemanager/blob/master/requi
 
 1. Clone the repository and get into the directory
 ```
-git clone https://github.com/talented/FileManager.git
+git clone https://github.com/flyasher/filemanager-vue-django-.git
 cd FileManager
 ```
 2. Create a virtual environment
